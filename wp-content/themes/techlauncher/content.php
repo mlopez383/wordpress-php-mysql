@@ -33,10 +33,10 @@
 			</h2>
 			<article class="Small">
 				<div class="TL-blog-category Post-meta-data"> 
-					<i class="fa fa-user Meta-fa-icon-user"></i>
-					<a class="Meta-user-des" href="<?php echo esc_url(get_author_posts_url( get_the_author_meta( 'ID' ) ));?>">
-						<?php the_author(); ?>
-					</a>
+					<!-- <i class="fa fa-user Meta-fa-icon-user"></i>
+					<a class="Meta-user-des" href="<?php /*echo esc_url(get_author_posts_url( get_the_author_meta( 'ID' ) ));*/ ?>">
+						<?php /*the_author();*/ ?>
+					</a> -->
 					<i class="fa fa-calendar Meta-fa-icons"></i>
 					<span class="Meta-data-date"><?php echo get_the_date( get_option( 'date_format' ) ); ?></span>
 				</div>
