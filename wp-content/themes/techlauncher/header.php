@@ -23,7 +23,7 @@
     <div class="TL-main-nav">
         <div class="container">
           <div class="row">
-              <div class="col-xs-12 col-sm-3">
+              <div class="col-xs-12 col-sm-5">
                 <div class="navbar-header">
                 <!-- Logo -->
                 <?php
@@ -40,7 +40,7 @@
                 <!-- Logo -->
                 </div>
               </div>
-              <div class="col-xs-12 col-sm-9 Main-Menu" >
+              <div class="col-xs-12 col-sm-7 Main-Menu" >
                 <nav class="navbar navbar-default navbar-static-top navbar-wp">
                   <!-- navbar-toggle -->
                   <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-wp"> <span class="sr-only"><?php __('Toggle Navigation','techlauncher'); ?></span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
